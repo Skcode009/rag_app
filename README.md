@@ -47,6 +47,11 @@ A biomedical **Retrieval-Augmented Generation (RAG)** application that answers p
 
 ---
 
+
+##  License
+This project is licensed under the MIT License.
+⚠️ Data and API usage are subject to their respective licenses.
+
 ## Run Locally
 
 ```bash
