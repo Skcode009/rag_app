@@ -1,8 +1,20 @@
-# Pharmacogenomics RAG System
+#  Pharmacogenomics RAG System
 
 A biomedical **Retrieval-Augmented Generation (RAG)** application that answers pharmacogenomics questions using **PubMed Central (PMC)** research articles.
 
+[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ragapp-d4ethqqsejruwpe3dgg3vh.streamlit.app/)
+
 ---
+
+## Live Demo
+
+[Try the App](https://ragapp-d4ethqqsejruwpe3dgg3vh.streamlit.app/)
+
+---
+
+## App Preview
+
+![App Screenshot](Screenshot.png)
 
 ## Features
 
@@ -51,6 +63,8 @@ A biomedical **Retrieval-Augmented Generation (RAG)** application that answers p
 ##  License
 This project is licensed under the MIT License.
 ⚠️ Data and API usage are subject to their respective licenses.
+
+---
 
 ## Run Locally
 
